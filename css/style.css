@@ -1,0 +1,10 @@
+hr{
+    color: black;
+    padding: 30px;
+}
+.p1{
+    font-size: 800%;
+}
+body{
+    background-image: var("img/1719810086961-removebg-preview.png");
+}
